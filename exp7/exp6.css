@@ -38,7 +38,7 @@
 }
 
 
-#inblockbox{
+#inblockbox {
     display: flex;
     justify-items: center;
 }
