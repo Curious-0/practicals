@@ -3,7 +3,7 @@ body{
 }
 
 #navbar{
-    border: 2px solid black;
+    border: 2px solid rgb(19, 17, 17);
     background-color:white;
     display: flex;
     justify-content: space-evenly;
@@ -12,13 +12,13 @@ body{
 }
 
 #card{
-    border: 2px blue solid;
+    border: 2px rgb(25, 25, 247) solid;
     border-radius: 5%;
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 0px 30px 0px 30px;
     text-align: center;
-    box-shadow: 0 0 10px blue ;
+    box-shadow: 0 0 10px rgb(7, 7, 214) ;
 
 
 }
